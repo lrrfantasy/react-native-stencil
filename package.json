@@ -1,0 +1,8 @@
+{
+  "name": "react-native-stencil",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lrrfantasy/react-native-stencil.git",
+  "author": "Ruoran Liu <rrliu@thoughtworks.com>",
+  "license": "MIT"
+}
